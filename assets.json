@@ -1,0 +1,516 @@
+{
+  "Build/Mouthwashing.data.unityweb": [
+    57854274,
+    "application/vnd.unity",
+    [
+      "./chunks/bd246a14e37c250b0cc0-000.bin",
+      "./chunks/bd246a14e37c250b0cc0-001.bin",
+      "./chunks/bd246a14e37c250b0cc0-002.bin",
+      "./chunks/bd246a14e37c250b0cc0-003.bin"
+    ]
+  ],
+  "Build/Mouthwashing.wasm.unityweb": [
+    14305197,
+    "application/vnd.unity",
+    [
+      "./chunks/6fea90c2e63ec012b548-000.bin"
+    ]
+  ],
+  "StreamingAssets/Master.bank": [
+    101807136,
+    "application/octet-stream",
+    [
+      "./chunks/bcad2b6d311c0997c832-000.bin",
+      "./chunks/bcad2b6d311c0997c832-001.bin",
+      "./chunks/bcad2b6d311c0997c832-002.bin",
+      "./chunks/bcad2b6d311c0997c832-003.bin",
+      "./chunks/bcad2b6d311c0997c832-004.bin",
+      "./chunks/bcad2b6d311c0997c832-005.bin",
+      "./chunks/bcad2b6d311c0997c832-006.bin"
+    ]
+  ],
+  "StreamingAssets/Master.strings.bank": [
+    22776,
+    "application/octet-stream",
+    [
+      "./chunks/c7888bf07b99a1011e24-000.bin"
+    ]
+  ],
+  "StreamingAssets/Videos/AisforAtomClip - Flipped.webm": [
+    19133475,
+    "video/webm",
+    [
+      "./chunks/fbafffbebe3a109ef32c-000.bin",
+      "./chunks/fbafffbebe3a109ef32c-001.bin"
+    ]
+  ],
+  "StreamingAssets/Videos/BabyAnim0001-0420.webm": [
+    1681733,
+    "video/webm",
+    [
+      "./chunks/89e737a1061520ac789b-000.bin"
+    ]
+  ],
+  "StreamingAssets/Videos/Cake Footage End Loop.webm": [
+    1161261,
+    "video/webm",
+    [
+      "./chunks/26ffa890e92bd4340702-000.bin"
+    ]
+  ],
+  "StreamingAssets/Videos/Cake Footage Intro Loop.webm": [
+    51451,
+    "video/webm",
+    [
+      "./chunks/47e22c3519710972e166-000.bin"
+    ]
+  ],
+  "StreamingAssets/Videos/Cake Footage Main.webm": [
+    951545,
+    "video/webm",
+    [
+      "./chunks/cf46e445524fc01ef571-000.bin"
+    ]
+  ],
+  "StreamingAssets/Videos/Cake Footage Pickup Loop.webm": [
+    72272,
+    "video/webm",
+    [
+      "./chunks/3629d7c5f3707d154acc-000.bin"
+    ]
+  ],
+  "StreamingAssets/Videos/Demo_end_screen_no_text.webm": [
+    931164,
+    "video/webm",
+    [
+      "./chunks/2f502a57fe6544649af2-000.bin"
+    ]
+  ],
+  "StreamingAssets/Videos/Dragonbreath_X_Commercial_DemoEdit.webm": [
+    13667785,
+    "video/webm",
+    [
+      "./chunks/2274ad35b23515d41d98-000.bin"
+    ]
+  ],
+  "StreamingAssets/Videos/Dragonbreath_commercial_bigger_text.webm": [
+    1809312,
+    "video/webm",
+    [
+      "./chunks/41be6121a1ebf76e26ef-000.bin"
+    ]
+  ],
+  "StreamingAssets/Videos/FireVideoBackground.webm": [
+    63779669,
+    "video/webm",
+    [
+      "./chunks/4b10e20005e90958bd7d-000.bin",
+      "./chunks/4b10e20005e90958bd7d-001.bin",
+      "./chunks/4b10e20005e90958bd7d-002.bin",
+      "./chunks/4b10e20005e90958bd7d-003.bin"
+    ]
+  ],
+  "StreamingAssets/Videos/FireVideoElement.webm": [
+    49330234,
+    "video/webm",
+    [
+      "./chunks/716c2d1588d89013ff63-000.bin",
+      "./chunks/716c2d1588d89013ff63-001.bin",
+      "./chunks/716c2d1588d89013ff63-002.bin",
+      "./chunks/716c2d1588d89013ff63-003.bin"
+    ]
+  ],
+  "StreamingAssets/Videos/GoingPlaces - Flipped.webm": [
+    28176547,
+    "video/webm",
+    [
+      "./chunks/f62f4bf46de049571e32-000.bin",
+      "./chunks/f62f4bf46de049571e32-001.bin"
+    ]
+  ],
+  "StreamingAssets/Videos/Intro Video No Text.webm": [
+    6050023,
+    "video/webm",
+    [
+      "./chunks/abb4fa07dcadf5f740d0-000.bin"
+    ]
+  ],
+  "StreamingAssets/Videos/Intro Video.webm": [
+    7000311,
+    "video/webm",
+    [
+      "./chunks/9d16b001d4550a321594-000.bin"
+    ]
+  ],
+  "StreamingAssets/Videos/MakeMineFreedomClip - Flipped.webm": [
+    16872584,
+    "video/webm",
+    [
+      "./chunks/16162b1d4681d0adf439-000.bin",
+      "./chunks/16162b1d4681d0adf439-001.bin"
+    ]
+  ],
+  "StreamingAssets/Videos/MeatFactory - Flipped.mp4": [
+    16930453,
+    "video/mp4",
+    [
+      "./chunks/7692a78e737af78f87ad-000.bin",
+      "./chunks/7692a78e737af78f87ad-001.bin"
+    ]
+  ],
+  "StreamingAssets/Videos/MonologueVid1.webm": [
+    2161601,
+    "video/webm",
+    [
+      "./chunks/28ea19645a5f09dabace-000.bin"
+    ]
+  ],
+  "StreamingAssets/Videos/MonologueVid3p.webm": [
+    4240867,
+    "video/webm",
+    [
+      "./chunks/3ac35a089cefde05b9e9-000.bin"
+    ]
+  ],
+  "StreamingAssets/Videos/MonologueVid4.webm": [
+    2179417,
+    "video/webm",
+    [
+      "./chunks/5500496c0a00d07267ea-000.bin"
+    ]
+  ],
+  "StreamingAssets/Videos/MonologueVid6.webm": [
+    3019540,
+    "video/webm",
+    [
+      "./chunks/c034838d7e1e150a336b-000.bin"
+    ]
+  ],
+  "StreamingAssets/Videos/MonologueVid7.webm": [
+    3691070,
+    "video/webm",
+    [
+      "./chunks/003b4bfc3ae0ee7b7a9c-000.bin"
+    ]
+  ],
+  "StreamingAssets/Videos/NasaDevouringSun - Flipped.webm": [
+    13534361,
+    "video/webm",
+    [
+      "./chunks/b00f76234f288858e99d-000.bin"
+    ]
+  ],
+  "StreamingAssets/Videos/NewSwansea1.webm": [
+    5480935,
+    "video/webm",
+    [
+      "./chunks/6fd81ecce13a375e3c72-000.bin"
+    ]
+  ],
+  "StreamingAssets/Videos/NewSwansea2.webm": [
+    4500961,
+    "video/webm",
+    [
+      "./chunks/bd8a29adb1361f85216f-000.bin"
+    ]
+  ],
+  "StreamingAssets/Videos/SkeletonDanceClip - Flipped.webm": [
+    6459004,
+    "video/webm",
+    [
+      "./chunks/7fc324665113a4c88429-000.bin"
+    ]
+  ],
+  "StreamingAssets/Videos/SwanseaClips1.mp4": [
+    98015342,
+    "video/mp4",
+    [
+      "./chunks/1c036cef076114807e16-000.bin",
+      "./chunks/1c036cef076114807e16-001.bin",
+      "./chunks/1c036cef076114807e16-002.bin",
+      "./chunks/1c036cef076114807e16-003.bin",
+      "./chunks/1c036cef076114807e16-004.bin",
+      "./chunks/1c036cef076114807e16-005.bin",
+      "./chunks/1c036cef076114807e16-006.bin"
+    ]
+  ],
+  "StreamingAssets/Videos/Temp Mouth Washing Commercial.webm": [
+    497773,
+    "video/webm",
+    [
+      "./chunks/81f90c72439d3c5fd2c5-000.bin"
+    ]
+  ],
+  "StreamingAssets/Videos/vocal cord video.webm": [
+    4749673,
+    "video/webm",
+    [
+      "./chunks/976955d668f1e59df3ed-000.bin"
+    ]
+  ],
+  "StreamingAssets/scenes/bizch1_scene": [
+    82828515,
+    "application/octet-stream",
+    [
+      "./chunks/c235c9bd847f1047f2a8-000.bin",
+      "./chunks/c235c9bd847f1047f2a8-001.bin",
+      "./chunks/c235c9bd847f1047f2a8-002.bin",
+      "./chunks/c235c9bd847f1047f2a8-003.bin",
+      "./chunks/c235c9bd847f1047f2a8-004.bin",
+      "./chunks/c235c9bd847f1047f2a8-005.bin"
+    ]
+  ],
+  "StreamingAssets/scenes/bizch2_scene": [
+    50504930,
+    "application/octet-stream",
+    [
+      "./chunks/2aaa7a45ef85c9ccd3cd-000.bin",
+      "./chunks/2aaa7a45ef85c9ccd3cd-001.bin",
+      "./chunks/2aaa7a45ef85c9ccd3cd-002.bin",
+      "./chunks/2aaa7a45ef85c9ccd3cd-003.bin"
+    ]
+  ],
+  "StreamingAssets/scenes/bizch3_scene": [
+    60768604,
+    "application/octet-stream",
+    [
+      "./chunks/73814df3b8b0bb6a7dde-000.bin",
+      "./chunks/73814df3b8b0bb6a7dde-001.bin",
+      "./chunks/73814df3b8b0bb6a7dde-002.bin",
+      "./chunks/73814df3b8b0bb6a7dde-003.bin"
+    ]
+  ],
+  "StreamingAssets/scenes/ch11_scene": [
+    85664203,
+    "application/octet-stream",
+    [
+      "./chunks/78ceb7901be208d92c9b-000.bin",
+      "./chunks/78ceb7901be208d92c9b-001.bin",
+      "./chunks/78ceb7901be208d92c9b-002.bin",
+      "./chunks/78ceb7901be208d92c9b-003.bin",
+      "./chunks/78ceb7901be208d92c9b-004.bin",
+      "./chunks/78ceb7901be208d92c9b-005.bin"
+    ]
+  ],
+  "StreamingAssets/scenes/ch12_scene": [
+    72099576,
+    "application/octet-stream",
+    [
+      "./chunks/bca81a44cb3d81325efa-000.bin",
+      "./chunks/bca81a44cb3d81325efa-001.bin",
+      "./chunks/bca81a44cb3d81325efa-002.bin",
+      "./chunks/bca81a44cb3d81325efa-003.bin",
+      "./chunks/bca81a44cb3d81325efa-004.bin"
+    ]
+  ],
+  "StreamingAssets/scenes/ch13_scene": [
+    111831119,
+    "application/octet-stream",
+    [
+      "./chunks/f8b51b7aa011ab2f94c7-000.bin",
+      "./chunks/f8b51b7aa011ab2f94c7-001.bin",
+      "./chunks/f8b51b7aa011ab2f94c7-002.bin",
+      "./chunks/f8b51b7aa011ab2f94c7-003.bin",
+      "./chunks/f8b51b7aa011ab2f94c7-004.bin",
+      "./chunks/f8b51b7aa011ab2f94c7-005.bin",
+      "./chunks/f8b51b7aa011ab2f94c7-006.bin"
+    ]
+  ],
+  "StreamingAssets/scenes/ch14_scene": [
+    142350258,
+    "application/octet-stream",
+    [
+      "./chunks/dd6722dfc274c4c68139-000.bin",
+      "./chunks/dd6722dfc274c4c68139-001.bin",
+      "./chunks/dd6722dfc274c4c68139-002.bin",
+      "./chunks/dd6722dfc274c4c68139-003.bin",
+      "./chunks/dd6722dfc274c4c68139-004.bin",
+      "./chunks/dd6722dfc274c4c68139-005.bin",
+      "./chunks/dd6722dfc274c4c68139-006.bin",
+      "./chunks/dd6722dfc274c4c68139-007.bin",
+      "./chunks/dd6722dfc274c4c68139-008.bin"
+    ]
+  ],
+  "StreamingAssets/scenes/ch16_scene": [
+    112984689,
+    "application/octet-stream",
+    [
+      "./chunks/c3b0ebf41db000724047-000.bin",
+      "./chunks/c3b0ebf41db000724047-001.bin",
+      "./chunks/c3b0ebf41db000724047-002.bin",
+      "./chunks/c3b0ebf41db000724047-003.bin",
+      "./chunks/c3b0ebf41db000724047-004.bin",
+      "./chunks/c3b0ebf41db000724047-005.bin",
+      "./chunks/c3b0ebf41db000724047-006.bin",
+      "./chunks/c3b0ebf41db000724047-007.bin"
+    ]
+  ],
+  "StreamingAssets/scenes/ch18_scene": [
+    86369751,
+    "application/octet-stream",
+    [
+      "./chunks/ec18940f1bfcd27e8cde-000.bin",
+      "./chunks/ec18940f1bfcd27e8cde-001.bin",
+      "./chunks/ec18940f1bfcd27e8cde-002.bin",
+      "./chunks/ec18940f1bfcd27e8cde-003.bin",
+      "./chunks/ec18940f1bfcd27e8cde-004.bin",
+      "./chunks/ec18940f1bfcd27e8cde-005.bin"
+    ]
+  ],
+  "StreamingAssets/scenes/ch19_scene": [
+    117015058,
+    "application/octet-stream",
+    [
+      "./chunks/63ad58d4458b883aec7f-000.bin",
+      "./chunks/63ad58d4458b883aec7f-001.bin",
+      "./chunks/63ad58d4458b883aec7f-002.bin",
+      "./chunks/63ad58d4458b883aec7f-003.bin",
+      "./chunks/63ad58d4458b883aec7f-004.bin",
+      "./chunks/63ad58d4458b883aec7f-005.bin",
+      "./chunks/63ad58d4458b883aec7f-006.bin",
+      "./chunks/63ad58d4458b883aec7f-007.bin"
+    ]
+  ],
+  "StreamingAssets/scenes/ch1_scene": [
+    34768913,
+    "application/octet-stream",
+    [
+      "./chunks/c6fa038301f1c06d28c8-000.bin",
+      "./chunks/c6fa038301f1c06d28c8-001.bin",
+      "./chunks/c6fa038301f1c06d28c8-002.bin"
+    ]
+  ],
+  "StreamingAssets/scenes/ch20_scene": [
+    84428764,
+    "application/octet-stream",
+    [
+      "./chunks/54ed44bfa027dd9ece68-000.bin",
+      "./chunks/54ed44bfa027dd9ece68-001.bin",
+      "./chunks/54ed44bfa027dd9ece68-002.bin",
+      "./chunks/54ed44bfa027dd9ece68-003.bin",
+      "./chunks/54ed44bfa027dd9ece68-004.bin",
+      "./chunks/54ed44bfa027dd9ece68-005.bin"
+    ]
+  ],
+  "StreamingAssets/scenes/ch21_scene": [
+    96942776,
+    "application/octet-stream",
+    [
+      "./chunks/f9a4105b2e5268ee875e-000.bin",
+      "./chunks/f9a4105b2e5268ee875e-001.bin",
+      "./chunks/f9a4105b2e5268ee875e-002.bin",
+      "./chunks/f9a4105b2e5268ee875e-003.bin",
+      "./chunks/f9a4105b2e5268ee875e-004.bin",
+      "./chunks/f9a4105b2e5268ee875e-005.bin",
+      "./chunks/f9a4105b2e5268ee875e-006.bin"
+    ]
+  ],
+  "StreamingAssets/scenes/ch22_scene": [
+    92542224,
+    "application/octet-stream",
+    [
+      "./chunks/1be1ad2b058ca824d0dd-000.bin",
+      "./chunks/1be1ad2b058ca824d0dd-001.bin",
+      "./chunks/1be1ad2b058ca824d0dd-002.bin",
+      "./chunks/1be1ad2b058ca824d0dd-003.bin",
+      "./chunks/1be1ad2b058ca824d0dd-004.bin",
+      "./chunks/1be1ad2b058ca824d0dd-005.bin"
+    ]
+  ],
+  "StreamingAssets/scenes/ch2_scene": [
+    104341885,
+    "application/octet-stream",
+    [
+      "./chunks/2b00bdee1a57df389d14-000.bin",
+      "./chunks/2b00bdee1a57df389d14-001.bin",
+      "./chunks/2b00bdee1a57df389d14-002.bin",
+      "./chunks/2b00bdee1a57df389d14-003.bin",
+      "./chunks/2b00bdee1a57df389d14-004.bin",
+      "./chunks/2b00bdee1a57df389d14-005.bin",
+      "./chunks/2b00bdee1a57df389d14-006.bin"
+    ]
+  ],
+  "StreamingAssets/scenes/ch3_scene": [
+    106562465,
+    "application/octet-stream",
+    [
+      "./chunks/0c7db66f31fe7044fe53-000.bin",
+      "./chunks/0c7db66f31fe7044fe53-001.bin",
+      "./chunks/0c7db66f31fe7044fe53-002.bin",
+      "./chunks/0c7db66f31fe7044fe53-003.bin",
+      "./chunks/0c7db66f31fe7044fe53-004.bin",
+      "./chunks/0c7db66f31fe7044fe53-005.bin",
+      "./chunks/0c7db66f31fe7044fe53-006.bin"
+    ]
+  ],
+  "StreamingAssets/scenes/ch4_scene": [
+    94999789,
+    "application/octet-stream",
+    [
+      "./chunks/067ed995faa82675e61a-000.bin",
+      "./chunks/067ed995faa82675e61a-001.bin",
+      "./chunks/067ed995faa82675e61a-002.bin",
+      "./chunks/067ed995faa82675e61a-003.bin",
+      "./chunks/067ed995faa82675e61a-004.bin",
+      "./chunks/067ed995faa82675e61a-005.bin"
+    ]
+  ],
+  "StreamingAssets/scenes/ch5_scene": [
+    23276558,
+    "application/octet-stream",
+    [
+      "./chunks/3d72f774274abaef45bc-000.bin",
+      "./chunks/3d72f774274abaef45bc-001.bin"
+    ]
+  ],
+  "StreamingAssets/scenes/ch6_scene": [
+    82260709,
+    "application/octet-stream",
+    [
+      "./chunks/aa246c3507960944272b-000.bin",
+      "./chunks/aa246c3507960944272b-001.bin",
+      "./chunks/aa246c3507960944272b-002.bin",
+      "./chunks/aa246c3507960944272b-003.bin",
+      "./chunks/aa246c3507960944272b-004.bin",
+      "./chunks/aa246c3507960944272b-005.bin"
+    ]
+  ],
+  "StreamingAssets/scenes/ch7_scene": [
+    76931433,
+    "application/octet-stream",
+    [
+      "./chunks/b7558cf311a04c1bdbb1-000.bin",
+      "./chunks/b7558cf311a04c1bdbb1-001.bin",
+      "./chunks/b7558cf311a04c1bdbb1-002.bin",
+      "./chunks/b7558cf311a04c1bdbb1-003.bin",
+      "./chunks/b7558cf311a04c1bdbb1-004.bin"
+    ]
+  ],
+  "StreamingAssets/scenes/ch8_scene": [
+    116882973,
+    "application/octet-stream",
+    [
+      "./chunks/03cfd329656544e019ad-000.bin",
+      "./chunks/03cfd329656544e019ad-001.bin",
+      "./chunks/03cfd329656544e019ad-002.bin",
+      "./chunks/03cfd329656544e019ad-003.bin",
+      "./chunks/03cfd329656544e019ad-004.bin",
+      "./chunks/03cfd329656544e019ad-005.bin",
+      "./chunks/03cfd329656544e019ad-006.bin",
+      "./chunks/03cfd329656544e019ad-007.bin"
+    ]
+  ],
+  "StreamingAssets/scenes/ch9_scene": [
+    108866156,
+    "application/octet-stream",
+    [
+      "./chunks/f696f832eab6de320a78-000.bin",
+      "./chunks/f696f832eab6de320a78-001.bin",
+      "./chunks/f696f832eab6de320a78-002.bin",
+      "./chunks/f696f832eab6de320a78-003.bin",
+      "./chunks/f696f832eab6de320a78-004.bin",
+      "./chunks/f696f832eab6de320a78-005.bin",
+      "./chunks/f696f832eab6de320a78-006.bin"
+    ]
+  ]
+}
